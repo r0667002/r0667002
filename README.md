@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r0667002&label=Profile%20views&color=0e75b6&style=flat" alt="r0667002" /> </p>
 
-- 👨‍💻 All of my projects are available at [@r0667002](@r0667002)
+- 👨‍💻 All of my projects are available at [r0667002](@r0667002)
 
 - 💬 Ask me about **Home Assistant, ESPHome, Energy Engineering...**
 
