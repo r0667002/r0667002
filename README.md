@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Tibo</h1>
-<h3 align="center">🏡 A passionate Home Assistant user from Belgium with a knack for tinkering.inkering</h3>
+<h3 align="center">🏡 A passionate Home Assistant user from Belgium with a knack for tinkering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r0667002&label=Profile%20views&color=0e75b6&style=flat" alt="r0667002" /> </p>
 
