@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Home Assistant, ESPHome, Energy Engineering...**
 
-- 📫 How to reach me **tibogeenen@gmail.com**
+- 📫 Reach me at **tibogeenen@gmail.com**
 
-- ⚡ Fun fact **I make DIY projects!**
+- ⚡ Fun fact: **I make DIY projects!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
