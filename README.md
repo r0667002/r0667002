@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/r0667002?tab=repositories)
 
-- 🛞 Check out my thesis work on the [Arenberg Watermill]([https://github.com/r0667002?tab=repositories](https://arenberg-watermill.github.io/)
+- 🛞 Check out my thesis work on the [Arenberg Watermill](https://arenberg-watermill.github.io/)
 
 - 💬 Ask me about **Home Assistant, ESPHome, Energy Engineering...**
 
